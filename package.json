@@ -3,8 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "workspaces": [
+    "package/*"
+  ],
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "release:all": "npm run release -ws",
+    "test:script": "npm run test:run-script -ws",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -15,5 +26,10 @@
     "monorepo"
   ],
   "author": "bebusl",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/release-notes-generator": "^14.0.0",
+    "husky": "^9.0.11"
+  }
 }

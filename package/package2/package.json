@@ -1,0 +1,24 @@
+{
+  "name": "@bebusl/monorepo-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:run-script": "echo \"스크립트 실행되는지 확인 : package2✅\"",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/bebusl/monorepo-semver-test.git"
+  },
+  "keywords": [
+    "semver",
+    "monorepo"
+  ],
+  "author": "bebusl",
+  "license": "ISC"
+}
