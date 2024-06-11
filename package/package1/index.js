@@ -1,3 +1,3 @@
 export default function package1() {
-  console.log("package 1");
+  console.log("package1 수정");
 }
