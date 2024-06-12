@@ -1,4 +1,5 @@
 {
+  "tagFormat": "@bebusl/monorepo-test-1@${version}",
   "plugins": [
     [
       "@semantic-release/commit-analyzer",
