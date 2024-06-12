@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-package1@1.0.0...@bebusl/monorepo-package1@1.0.1) (2024-06-12)
+
+### 🐛 Bug Fixes
+
+* **package1:** 릴리즈 옵션 변경 ([96dde43](https://github.com/bebusl/monorepo-semver-test/commit/96dde435e70e97adcc4a153e30b6a941b588cedc))
+* **package2:** 릴리즈 옵션 변경 ([95b1388](https://github.com/bebusl/monorepo-semver-test/commit/95b13885d63cdbb5453213ee7004716511d1706b))
+
 ## 1.0.0 (2024-06-12)
 
 ### 🐛 Bug Fixes
