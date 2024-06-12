@@ -15,7 +15,7 @@
     "release:all": "npm run release -ws",
     "test:script": "npm run test:run-script -ws",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "prepare": "node .husky/install.mjs"
   },
   "repository": {
     "type": "git",
