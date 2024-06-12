@@ -1,5 +1,5 @@
 export default {
-  tagFormat: "@bebusl/monorepo-test-1@${version}",
+  tagFormat: "@bebusl/monorepo-package1@${version}",
   plugins: [
     [
       "@semantic-release/commit-analyzer",
