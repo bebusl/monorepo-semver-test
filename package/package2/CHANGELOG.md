@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-test-2@1.1.3...@bebusl/monorepo-test-2@1.1.4) (2024-06-12)
+
+### 🐛 Bug Fixes
+
+* **package1:** 찐찐막 ([d81244c](https://github.com/bebusl/monorepo-semver-test/commit/d81244ce50e8a3dc0a692de528605e1dde700be2))
+
 ## [1.1.3](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-test-2@1.1.2...@bebusl/monorepo-test-2@1.1.3) (2024-06-12)
 
 ### 🐛 Bug Fixes
