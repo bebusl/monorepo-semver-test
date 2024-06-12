@@ -1,3 +1,5 @@
+## [1.1.0](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-test-2@1.0.0...@bebusl/monorepo-test-2@1.1.0) (2024-06-12)
+
 ## 1.0.0 (2024-06-12)
 
 ### 🐛 Bug Fixes
