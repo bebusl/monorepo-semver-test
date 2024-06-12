@@ -52,7 +52,7 @@ export default {
         scope: ["package1", "root"],
       },
     ],
-    "@semantic-release/changelog",
+    ["@semantic-release/changelog", { scope: ["package1", "root"] }],
     "@semantic-release/npm",
     [
       "@semantic-release/git",
