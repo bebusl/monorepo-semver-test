@@ -49,6 +49,7 @@ export default {
             { type: "remove", section: "🔥 Remove Files", hidden: true },
           ],
         },
+        scope: ["package2", "root"],
       },
     ],
     "@semantic-release/changelog",
