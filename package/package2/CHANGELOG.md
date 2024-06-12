@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-test-2@1.1.1...@bebusl/monorepo-test-2@1.1.2) (2024-06-12)
+
+### 🐛 Bug Fixes
+
+* **package1:** 채인지로그 관련 scope만 ([4e9e6c7](https://github.com/bebusl/monorepo-semver-test/commit/4e9e6c78a6035c9b38721de9ea5b0ad89b59a85c))
+* **package2:** 채인지로그 관련 scope만 ([abadd2b](https://github.com/bebusl/monorepo-semver-test/commit/abadd2bf650ebce1c3e7bfb997ff773314ebbaae))
+
 ## [1.1.1](https://github.com/bebusl/monorepo-semver-test/compare/@bebusl/monorepo-test-2@1.1.0...@bebusl/monorepo-test-2@1.1.1) (2024-06-12)
 
 ### 🐛 Bug Fixes
