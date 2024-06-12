@@ -29,9 +29,6 @@ jobs:
           npm install
           npm install -g semantic-release
 
-      - name: Build library
-        run: npm run build-library
-
       - name: Publish library1
         working-directory: package/package1
         env:
