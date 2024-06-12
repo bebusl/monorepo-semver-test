@@ -49,6 +49,7 @@ export default {
             { type: "remove", section: "🔥 Remove Files", hidden: true },
           ],
         },
+        scope: ["package1", "root"],
       },
     ],
     "@semantic-release/changelog",
@@ -63,5 +64,5 @@ export default {
     ],
     "@semantic-release/github",
   ],
-  packages: ["@bebusl/monorepo-test-1"],
+  packages: ["@bebusl/monorepo-package1"],
 };
