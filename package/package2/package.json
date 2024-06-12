@@ -13,7 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin https://github.com/bebusl/monorepo-semver-test.git"
+    "url": "https://github.com/bebusl/monorepo-semver-test.git",
+    "directory": "package/package2"
   },
   "keywords": [
     "semver",
